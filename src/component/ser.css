@@ -1,0 +1,17 @@
+.main2{
+    display: flex;
+    margin-top: 30px;
+    padding-left: 350px;
+}
+.sub{
+    margin-right: 40px;
+    height: 100px;
+    width: 100px;
+    font-weight: 400;
+    background: linear-gradient(127deg, rgba(12, 192, 215, 0.8), rgba(0,255,0,0) 70.71%);
+    border-radius: 1rem;
+    align-items: center;
+    align-content: center;
+    
+    
+}

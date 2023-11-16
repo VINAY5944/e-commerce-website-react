@@ -1,0 +1,13 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 12px;
+  }
+  
+  .item {
+    height: 500px;
+    background-color: #eee;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+  }
